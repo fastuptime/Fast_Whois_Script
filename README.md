@@ -6,6 +6,22 @@ Fast Whios
 ![image](https://user-images.githubusercontent.com/63351166/220958900-a92569d2-16f2-436e-82dd-92432b86d842.png)
 ![image](https://user-images.githubusercontent.com/63351166/220958955-6d656832-f4c9-4423-8a3e-f93de868407d.png)
 
+```
+📦Fast_Whois_Script
+ ┣ 📂views
+ ┃ ┣ 📂main_page
+ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┗ 📜main.css
+ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┣ 📂extention
+ ┃ ┃ ┃ ┃ ┣ 📜choices.js
+ ┃ ┃ ┃ ┃ ┣ 📜custom-materialize.js
+ ┃ ┃ ┃ ┃ ┗ 📜flatpickr.js
+ ┃ ┃ ┃ ┗ 📜main.js
+ ┃ ┗ 📜index.ejs
+ ┣ 📜index.js
+ ┗ 📜package.json
+```
 
 ---
 - ✨ [Destek İçin](https://fastuptime.com) <br>
